@@ -13,5 +13,8 @@
   "bugs": {
     "url": "https://github.com/MikepdXRider/Scaler/issues"
   },
-  "homepage": "https://github.com/MikepdXRider/Scaler#readme"
+  "homepage": "https://github.com/MikepdXRider/Scaler#readme",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
 }
