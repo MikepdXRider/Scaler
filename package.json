@@ -1,0 +1,17 @@
+{
+  "name": "scaler",
+  "version": "1.0.0",
+  "description": "Javascript Scaler",
+  "main": "Scaler.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikepdXRider/Scaler.git"
+  },
+  "author": "Michael X Rider",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikepdXRider/Scaler/issues"
+  },
+  "homepage": "https://github.com/MikepdXRider/Scaler#readme"
+}
